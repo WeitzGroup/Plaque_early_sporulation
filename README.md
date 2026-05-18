@@ -7,8 +7,10 @@ This repository contains the computational models and data analysis related to o
 
 ### Code Files (Jupyter Notebooks)
 - **Model R:** Model with Resource-only dependent dormancy.
-- **Model V:** Model with Contact mediated dormancy (with and without time delay).
-- **Model M:** Model with Messenger molecule mediated dormancy (with and without time delay).
+- **Model V:** Model with Contact mediated dormancy.
+- **Model M:** Model with Messenger molecule mediated dormancy.
+- **Virospore distribution investigation:** Built on Model V.
+- **Code to produce supplementary figure S9:** Comparison of dormancy rate functions.
 
 Each Jupyter notebook runs independently and corresponds to a specific dormancy model explored in the study.
 
