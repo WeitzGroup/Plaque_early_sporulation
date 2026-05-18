@@ -9,7 +9,7 @@ This repository contains the computational models and data analysis related to o
 - **Model R:** Model with Resource-only dependent dormancy.
 - **Model V:** Model with Contact mediated dormancy.
 - **Model M:** Model with Messenger molecule mediated dormancy.
-- **Virospore distribution investigation:** Built on Model V.
+- **Virospore distribution investigation:** Built on Model V to investigate the distribution of virospores.
 - **Code to produce supplementary figure S9:** Comparison of dormancy rate functions.
 
 Each Jupyter notebook runs independently and corresponds to a specific dormancy model explored in the study.
